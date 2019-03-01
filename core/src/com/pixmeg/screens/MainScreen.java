@@ -195,7 +195,7 @@ public class MainScreen extends ScreenAdapter implements InputProcessor {
                 tmp.y = worldPoints.y;
             }
             else {
-                System.out.println("AOP LESS THAN 0.02f");
+                System.out.println("AOP LESS THAN 0.02f");  // Area of Polygon
             }
             timer = 0;
         }
