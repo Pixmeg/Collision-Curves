@@ -1,0 +1,27 @@
+
+avengers.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cap
+  rotate: false
+  xy: 56, 2
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 110, 24
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+tony
+  rotate: false
+  xy: 2, 2
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
